@@ -1,0 +1,4 @@
+Captured from the deliberate teaching target at 390 x 844 logical pixels.
+The normal exercise targets are verified separately without overflow.
+
+A RenderFlex overflowed by 2407 pixels on the right.

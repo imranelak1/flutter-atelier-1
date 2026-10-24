@@ -1,0 +1,180 @@
+{
+  "generatedAt": "2026-10-24T23:38:03.155Z",
+  "renderer": "Flutter Web running in headless Google Chrome",
+  "deviceScaleFactor": 1,
+  "playwrightVersion": "1.64.1",
+  "browserVersion": "155.0.8059.86",
+  "captures": [
+    {
+      "file": "exercice-a.png",
+      "app": "atelier1",
+      "url": "http://127.0.0.1:8765/?exercise=a&theme=light",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "errors": [],
+      "image": {
+        "width": 390,
+        "height": 844,
+        "sampledColors": 217,
+        "nonBackgroundFraction": 0.9358428805237315
+      },
+      "status": "passed"
+    },
+    {
+      "file": "exercice-b.png",
+      "app": "atelier1",
+      "url": "http://127.0.0.1:8765/?exercise=b&theme=light",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "errors": [],
+      "image": {
+        "width": 390,
+        "height": 844,
+        "sampledColors": 5153,
+        "nonBackgroundFraction": 0.9357610474631751
+      },
+      "status": "passed"
+    },
+    {
+      "file": "exercice-c.png",
+      "app": "atelier1",
+      "url": "http://127.0.0.1:8765/?exercise=c&theme=light",
+      "viewport": {
+        "width": 430,
+        "height": 1000
+      },
+      "errors": [],
+      "image": {
+        "width": 430,
+        "height": 1000,
+        "sampledColors": 333,
+        "nonBackgroundFraction": 0.9318862275449101
+      },
+      "status": "passed"
+    },
+    {
+      "file": "atelier-clair.png",
+      "app": "atelier1",
+      "url": "http://127.0.0.1:8765/?exercise=d&theme=light",
+      "viewport": {
+        "width": 430,
+        "height": 1100
+      },
+      "errors": [],
+      "image": {
+        "width": 430,
+        "height": 1100,
+        "sampledColors": 5785,
+        "nonBackgroundFraction": 0.9380298213745081
+      },
+      "status": "passed"
+    },
+    {
+      "file": "atelier-sombre.png",
+      "app": "atelier1",
+      "url": "http://127.0.0.1:8765/?exercise=d&theme=dark",
+      "viewport": {
+        "width": 430,
+        "height": 1100
+      },
+      "errors": [],
+      "image": {
+        "width": 430,
+        "height": 1100,
+        "sampledColors": 5706,
+        "nonBackgroundFraction": 0.9382190432939752
+      },
+      "status": "passed"
+    },
+    {
+      "file": "atelier-violet.png",
+      "app": "atelier1",
+      "url": "http://127.0.0.1:8765/?exercise=d&theme=light&seed=0xFF7C3AED",
+      "viewport": {
+        "width": 430,
+        "height": 1100
+      },
+      "errors": [],
+      "image": {
+        "width": 430,
+        "height": 1100,
+        "sampledColors": 5783,
+        "nonBackgroundFraction": 0.860392067817136
+      },
+      "status": "passed"
+    },
+    {
+      "file": "alignements.png",
+      "app": "atelier1",
+      "url": "http://127.0.0.1:8765/?exercise=alignments&theme=light",
+      "viewport": {
+        "width": 430,
+        "height": 1800
+      },
+      "errors": [],
+      "image": {
+        "width": 430,
+        "height": 1800,
+        "sampledColors": 445,
+        "nonBackgroundFraction": 0.9696643518518518
+      },
+      "status": "passed"
+    },
+    {
+      "file": "profil-clair.png",
+      "app": "profil_etudiant",
+      "url": "http://127.0.0.1:8766/?theme=light",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "errors": [],
+      "image": {
+        "width": 390,
+        "height": 844,
+        "sampledColors": 1129,
+        "nonBackgroundFraction": 0.934697217675941
+      },
+      "status": "passed"
+    },
+    {
+      "file": "profil-sombre.png",
+      "app": "profil_etudiant",
+      "url": "http://127.0.0.1:8766/?theme=dark",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "errors": [],
+      "image": {
+        "width": 390,
+        "height": 844,
+        "sampledColors": 1068,
+        "nonBackgroundFraction": 0.9348881614839062
+      },
+      "status": "passed"
+    },
+    {
+      "file": "profil-desktop.png",
+      "app": "profil_etudiant",
+      "url": "http://127.0.0.1:8766/?theme=light",
+      "viewport": {
+        "width": 1100,
+        "height": 850
+      },
+      "errors": [],
+      "image": {
+        "width": 1100,
+        "height": 850,
+        "sampledColors": 1107,
+        "nonBackgroundFraction": 0.9338661396169935
+      },
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

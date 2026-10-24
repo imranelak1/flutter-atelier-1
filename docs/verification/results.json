@@ -1,0 +1,19 @@
+{
+    "generatedAtUtc":  "2026-10-24T23:36:21.2110554Z",
+    "platform":  "Windows host; Flutter widget tests",
+    "status":  "passed",
+    "projects":  [
+                     {
+                         "name":  "atelier1",
+                         "analyze":  "No issues found",
+                         "testsPassed":  14,
+                         "status":  "passed"
+                     },
+                     {
+                         "name":  "profil_etudiant",
+                         "analyze":  "No issues found",
+                         "testsPassed":  9,
+                         "status":  "passed"
+                     }
+                 ]
+}

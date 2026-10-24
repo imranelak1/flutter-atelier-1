@@ -1,0 +1,17 @@
+**/.dart_tool/
+**/build/
+**/.flutter-plugins*
+**/local.properties
+**/android/.gradle/
+**/android/captures/
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/.idea/
+**/*.iml
+**/coverage/
+node_modules/
+.DS_Store
+Thumbs.db
+.impeccable/
+.capture-cache/
